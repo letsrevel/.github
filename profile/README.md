@@ -18,6 +18,7 @@ Try Revel yourself at **[demo.letsrevel.io](https://demo.letsrevel.io)**
 
 - **Frontend Demo:** https://demo.letsrevel.io
 - **API Documentation:** https://demo-api.letsrevel.io/api/docs
+- **Feedback is welcome:** https://forms.gle/uuW6wSNn7BQLZWMS7
 
 > **Note:** Emails are dry-run, and demo data resets daily at 00:00 CET.
 
