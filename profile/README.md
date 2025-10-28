@@ -1,4 +1,4 @@
-# 🎉 Revel
+# 🏳️‍🌈 Revel
 
 **An open-source, community-focused event management and ticketing platform.**
 
