@@ -12,7 +12,7 @@ Unlike monolithic corporate platforms that treat events as transactions, Revel t
 
 ---
 
-## ✨ Live Demo (Alpha)
+## ✨ Live Demo (Beta)
 
 Try Revel yourself at **[demo.letsrevel.io](https://demo.letsrevel.io)**
 
