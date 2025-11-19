@@ -151,6 +151,7 @@ pnpm dev
 
 - **[revel-backend](https://github.com/letsrevel/revel-backend)** - Django REST API, business logic, database
 - **[revel-frontend](https://github.com/letsrevel/revel-frontend)** - SvelteKit web application
+- **[infra](https://github.com/letsrevel/infra)** - Production infrastructure with Docker Compose, Caddy reverse proxy, and complete observability stack (Grafana, Prometheus, Loki, Tempo, Pyroscope)
 
 ### Key Design Patterns
 
@@ -165,6 +166,31 @@ pnpm dev
 - Auto-generated TypeScript client from OpenAPI spec
 - Component-driven architecture with Svelte 5 Runes
 - Accessibility-first development (WCAG 2.1 AA)
+
+---
+
+## 🎉 Latest Release: v1.0.0
+
+**Released:** November 19, 2025
+
+Revel v1.0.0 is the first major release of our open-source, community-focused event management platform. This release delivers a complete, production-ready system with 200+ API endpoints across 18 controllers.
+
+### Highlights
+
+- **Complete Event Management:** Single events, recurring series, flexible ticketing (paid/free/PWYC), RSVPs, waitlists, and QR code check-in
+- **Community Building:** Organizations with membership tiers, roles & permissions, and token-based invitations
+- **Advanced Screening:** Dynamic questionnaires with LLM-powered evaluation for attendee screening
+- **Multi-Channel Notifications:** In-app, email, and Telegram notifications with granular user preferences
+- **Privacy-First:** GDPR-compliant with full data export/deletion, malware scanning, and 2FA support
+- **Developer Experience:** Full type safety (mypy strict), comprehensive test suite, automatic OpenAPI docs
+- **Observability:** Complete LGTM stack (Loki, Grafana, Tempo, Mimir, Pyroscope) with distributed tracing and continuous profiling
+- **Internationalization:** Support for English, German, and Italian (work in progress)
+
+**Tech Stack:** Django 5.2+, Django Ninja, PostgreSQL with PostGIS, Celery + Redis, Python 3.13+
+
+**Self-Hosting:** Completely free and open-source under MIT license. For the future hosted version: 3% + €0.50 per paid ticket, no charge for free events.
+
+[Read the full release notes →](https://github.com/letsrevel/revel-backend/blob/main/RELEASE.md)
 
 ---
 
