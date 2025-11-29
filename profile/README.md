@@ -37,7 +37,7 @@ Avoid vendor lock-in. Host Revel on your own infrastructure for free, giving you
 ### Fair & Simple Pricing
 For those who choose our future hosted version:
 - **No charge** for free events or events where you handle payments yourself
-- **3% + €0.50 commission** on paid tickets sold through Revel
+- **1.5% + €0.25 commission** on paid tickets sold through Revel (stripe fees not included, and they are the same)
 
 This significantly undercuts the high fees of major platforms while keeping the project sustainable and open source.
 
