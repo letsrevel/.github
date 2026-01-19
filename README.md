@@ -2,7 +2,7 @@
 
 **An open-source, community-focused event management and ticketing platform.**
 
-[![Status](https://img.shields.io/badge/status-Beta-orange?style=for-the-badge)](https://github.com/letsrevel)
+[![Status](https://img.shields.io/badge/status-Live-green?style=for-the-badge)](https://letsrevel.io)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](https://github.com/letsrevel/revel-backend/blob/main/LICENSE)
 [![Live Demo](https://img.shields.io/badge/demo-live-success?style=for-the-badge)](https://demo.letsrevel.io)
 
@@ -12,7 +12,7 @@ Unlike monolithic corporate platforms that treat events as transactions, Revel t
 
 ---
 
-## ✨ Live Demo (Beta)
+## ✨ Live Demo
 
 Try Revel yourself at **[demo.letsrevel.io](https://demo.letsrevel.io)**
 
