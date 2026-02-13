@@ -5,6 +5,7 @@
 [![Status](https://img.shields.io/badge/status-Live-green?style=for-the-badge)](https://letsrevel.io)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](https://github.com/letsrevel/revel-backend/blob/main/LICENSE)
 [![Live Demo](https://img.shields.io/badge/demo-live-success?style=for-the-badge)](https://demo.letsrevel.io)
+[![Discord](https://img.shields.io/badge/Discord-Join%20us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zy8nTDqQ)
 
 Revel is an event management platform designed with community at its heart. Initially created to serve the specific needs of queer, LGBTQ+, and sex-positive communities, it is built to be event-agnostic, scalable, and a powerful tool for any group that values **privacy**, **control**, and **transparency**.
 
@@ -253,7 +254,7 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 - **Frontend Repository:** [github.com/letsrevel/revel-frontend](https://github.com/letsrevel/revel-frontend)
 - **Live Demo:** [demo.letsrevel.io](https://demo.letsrevel.io)
 - **API Documentation:** [demo-api.letsrevel.io/api/docs](https://demo-api.letsrevel.io/api/docs)
-- **Community Discord:** Coming soon
+- **Community Discord:** [discord.gg/zy8nTDqQ](https://discord.gg/zy8nTDqQ)
 - **Documentation:** Coming soon
 
 ---
