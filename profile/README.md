@@ -202,7 +202,7 @@ We welcome contributions from developers of all skill levels!
 ### How to Contribute
 
 1. Check [open issues](https://github.com/letsrevel/revel-backend/issues) or [frontend issues](https://github.com/letsrevel/revel-frontend/issues)
-2. Read the [CONTRIBUTING.md](CONTRIBUTING.md) guidelines
+2. Read the [CONTRIBUTING.md](https://github.com/letsrevel/revel-backend/blob/main/CONTRIBUTING.md) guidelines
 3. Fork the repository and create a feature branch
 4. Write tests for your changes
 5. Submit a pull request
