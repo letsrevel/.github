@@ -254,7 +254,7 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 - **Frontend Repository:** [github.com/letsrevel/revel-frontend](https://github.com/letsrevel/revel-frontend)
 - **Live Demo:** [demo.letsrevel.io](https://demo.letsrevel.io)
 - **API Documentation:** [demo-api.letsrevel.io/api/docs](https://demo-api.letsrevel.io/api/docs)
-- **Community Discord:** [discord.gg/zy8nTDqQ](https://discord.gg/zy8nTDqQ)
+- **Community Discord:** [discord.gg/Rnwbzuvxvn](https://discord.gg/Rnwbzuvxvn)
 - **Documentation:** Coming soon
 
 ---
