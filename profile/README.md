@@ -1,13 +1,13 @@
 # 🏳️‍🌈 Revel
 
-**An open-source, community-focused event management and ticketing platform.**
+**An open-source event management, ticketing and membership platform for communities, clubs and independent venues.**
 
 [![Status](https://img.shields.io/badge/status-Live-green?style=for-the-badge)](https://letsrevel.io)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](https://github.com/letsrevel/revel-backend/blob/main/LICENSE)
 [![Live Demo](https://img.shields.io/badge/demo-live-success?style=for-the-badge)](https://demo.letsrevel.io)
 [![Discord](https://img.shields.io/badge/Discord-Join%20us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Rnwbzuvxvn)
 
-Revel is an event management platform designed with community at its heart. Initially created to serve the specific needs of queer, LGBTQ+, and sex-positive communities, it is built to be event-agnostic, scalable, and a powerful tool for any group that values **privacy**, **control**, and **transparency**.
+Revel is an event management platform designed with community at its heart. Initially created to serve the specific needs of queer, LGBTQ+, and sex-positive communities, it is built to be event-agnostic, scalable, and a powerful tool for any group that values **privacy**, **control**, and **transparency**. It works just as well for a gym, a yoga studio, a dance school or a choir: sell monthly or annual memberships, run members-only classes with a plain RSVP, sell a pass for a whole series, and put the membership card in your members' wallets.
 
 Unlike monolithic corporate platforms that treat events as transactions, Revel treats them as part of a larger community ecosystem.
 
@@ -52,6 +52,9 @@ Revel combines the ticketing power of platforms like Eventbrite with the communi
 - **Organizations:** Create and manage your community's central hub with customizable visibility (Public, Private, Members-Only)
 - **Roles & Permissions:** Granular permission system with Owner, Staff, and Member roles
 - **Membership System:** Manage member rosters, enable members-only events, foster belonging
+- **Membership Tiers & Subscriptions:** Offer tiered memberships on monthly or annual plans, paid through Stripe or settled by cash/wire and managed manually
+- **Series Passes:** Sell a single pass for a whole event series—works as a class pack for recurring classes
+- **Digital Membership Cards:** Members carry their card in Apple Wallet, Google Wallet, or as a PDF
 
 ### 🔒 Trust, Safety & Privacy
 - **Advanced Attendee Screening:** Gate event eligibility with custom questionnaires for automatic or manual review
