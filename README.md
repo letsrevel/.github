@@ -15,7 +15,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/tailwind_css-3-38B2AC.svg?logo=tailwindcss&logoColor=white)](https://v3.tailwindcss.com/)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/letsrevel/revel-backend/main/docs/screenshots/event-detail-page.png" alt="A Revel event page for a gig, with date, venue, running order and a Get Tickets button" width="800"/>
+  <img src="https://raw.githubusercontent.com/letsrevel/revel-backend/main/docs/screenshots/2026-09/event-detail-page.png" alt="A Revel event page for a gig, with date, venue, running order and a Get Tickets button" width="800"/>
 </p>
 
 Revel sells tickets, recurring memberships and series passes, with seat maps, attendee screening and EU VAT invoicing.
