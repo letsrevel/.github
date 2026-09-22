@@ -6,8 +6,16 @@
 [![Docs](https://img.shields.io/badge/docs-docs.letsrevel.io-blue?style=for-the-badge)](https://docs.letsrevel.io)
 [![Discord](https://img.shields.io/badge/Discord-Join%20us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Rnwbzuvxvn)
 
+[![Python](https://img.shields.io/badge/python-3.14%2B-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/downloads/)
+[![Django](https://img.shields.io/badge/django-5.2_LTS-092E20.svg?logo=django&logoColor=white)](https://docs.djangoproject.com/en/5.2/)
+[![PostGIS](https://img.shields.io/badge/postgresql-PostGIS-336791.svg?logo=postgresql&logoColor=white)](https://postgis.net/)
+[![SvelteKit](https://img.shields.io/badge/sveltekit-2-FF3E00.svg?logo=svelte&logoColor=white)](https://svelte.dev/docs/kit)
+[![Svelte](https://img.shields.io/badge/svelte-5-FF3E00.svg?logo=svelte&logoColor=white)](https://svelte.dev/docs/svelte)
+[![TypeScript](https://img.shields.io/badge/typescript-6_strict-3178C6.svg?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/tailwind_css-3-38B2AC.svg?logo=tailwindcss&logoColor=white)](https://v3.tailwindcss.com/)
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/letsrevel/revel-backend/main/docs/screenshots/event-detail-page.png" alt="A Revel event page with cover art, ticket availability and a buy button" width="800"/>
+  <img src="https://raw.githubusercontent.com/letsrevel/revel-backend/main/docs/screenshots/event-detail-page.png" alt="A Revel event page for a gig, with date, venue, running order and a Get Tickets button" width="800"/>
 </p>
 
 Revel sells tickets, recurring memberships and series passes, with seat maps, attendee screening and EU VAT invoicing.
